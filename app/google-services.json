@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223793096613",
+    "firebase_url": "https://parsealtest-1c57c.firebaseio.com",
+    "project_id": "parsealtest-1c57c",
+    "storage_bucket": "parsealtest-1c57c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223793096613:android:d45043b261f2b38136aa4c",
+        "android_client_info": {
+          "package_name": "com.parseal.app.parsealtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223793096613-a6hvi07uqhci0ecajqmkj5lbgag351nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZcamQwLfSFR2W5uemCMs6ShwBxAy5yuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223793096613-a6hvi07uqhci0ecajqmkj5lbgag351nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
